@@ -1,0 +1,1 @@
+This could be a good oppurtunity to add a Contributions page so people could edit this repository during pull request. The guidelines for contributing are up to you. I would add 1-6 pointers for contributing, but this is usually a common and essential element to a repo.
